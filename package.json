@@ -1,4 +1,5 @@
 {
+  "homepage": "https://saurav-sinha-3141.github.io/xeno-task-frontend",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +12,8 @@
     "react-toastify": "^10.0.6"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

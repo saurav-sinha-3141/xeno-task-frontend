@@ -8,7 +8,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/xeno-task-frontend">
       <Navbar />
       <Routes>
         <Route exact path="/" element={<Login />} />
