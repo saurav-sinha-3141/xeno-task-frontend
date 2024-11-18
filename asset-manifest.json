@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xeno-task-frontend/static/css/main.686cb899.css",
+    "main.js": "/xeno-task-frontend/static/js/main.8ab5a480.js",
+    "index.html": "/xeno-task-frontend/index.html",
+    "main.686cb899.css.map": "/xeno-task-frontend/static/css/main.686cb899.css.map",
+    "main.8ab5a480.js.map": "/xeno-task-frontend/static/js/main.8ab5a480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.686cb899.css",
+    "static/js/main.8ab5a480.js"
+  ]
+}
